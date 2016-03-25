@@ -1,0 +1,38 @@
+www.apple.com/au
+
+User experience Goals:
+	satisfying: Because the website is very clean and simple.
+	pleasurable:There are always some simple pictures which are related to some specific idea. This is very easy to make the users understand it.
+	
+Usability Goals:
+	Effective: Clear and brilliant classification on the menu bar. Users can find what they need easily.
+	Efficiency: There are four pictures below which are very efficient for the users to understand the latest news.
+	Memorability: Because of the clear classification, Users can find what the want easily. Therefore, they can remember how to use this website.
+	
+Design principle:
+	feedback: There are both good designs and bad designs. On the top of the view, every buttons have feedback. When you move the mouse on the buttons, the color will be changed.
+			  However, the feedback of pictures is bad. Though every picture can have a link, there is no feedback on it. For this reason, some users may not know they can be clicked.
+	
+	consistency: Every pages are very simple, both in layout and colour. So this website has a consistent style.
+
+Usability principle:
+	Aesthetic and minimalist design: Only 7 buttons, 5 pictures, 1 input box and some words. It is clear and concise.
+	
+	
+	
+	
+www.hasee.com/en
+
+User experience goals:
+	The website is not entertaining both in colour and layout. Moreover, for some retina screen, the DPI of this view is not enough. The pictures showed on the 1920*1080 screen are not clear.
+
+Usability goals:
+	Effective: When users select tab "Service&Support", there is a picture says "Download". However, it can not be clicked. Therefore this is a really bad experience for users.
+			   When users select tab "How to buy", there is also a picture which is a world map and every countries and continents on the map can not be clicked. Usually they should be clickable and if users click one of them, it will show some detail information about the local stores.
+	Efficiency: When users search some products, there is an advanced search view. But except option "product", all of others have no choice for users. They have to fill information in the input box, such as type of CPU and screen size. This is hard to the people who do not know computer well.
+
+Design principle:
+	Feedback: When users click one of the tabs on the top of the website, there is nothing change on the tab. Thus, it would make users confused because they do not know which tab is active.
+
+Usability principle:
+	Error prevention: The input box on the top for searching is not effective, it can not search by model number. Such as k470, which is one of the most famous Hasee's laptops, could not be find by searching function. 
