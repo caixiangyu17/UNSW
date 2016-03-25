@@ -1,0 +1,36 @@
+1-----------------------------
+Proj[person.name]
+(
+	person join[person.personid = relationpersoninproceeding.personid] relationpersoninproceeding
+)
+
+2-------------------------------
+temp1 = proj[person.personid, relationpersoninproceeding.inproceedingid](
+	person join[person.personid = relationpersoninproceeding.personid] relationpersoninproceeding
+)		
+
+temp 2 = proj[temp1.personid, inproceeding.proceedingid](
+	inproceeding join[temp1.inproceedingid = inproceeding.inproceedingid] temp1	
+)
+
+temp3 = proj[temp2.personid](
+	proceeding join[temp2.proceedingid = proceeding.proceedingid and temp2.personid = proceeding.editorid] temp2
+)
+
+answer = proj[person.name](
+	person join[temp3.personid = person.personid] temp3
+)
+
+3--------------------------------
+temp1 = proj[personid](
+	sel[name ~ 'clark$'](person)
+)
+
+temp2 = proj[relationpersoninproceeding.inproceedingid](
+		temp1 join[temp.personid = relationpersoninproceeding.personid]
+) relationpersoninproceeding
+
+answer = proj[inproceeding.title](
+	temp2 join[temp2.inproceedingid = inproceeding.inproceedingid] inproceeding
+)
+
