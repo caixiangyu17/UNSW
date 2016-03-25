@@ -1,0 +1,2 @@
+Pattern is a frieze of period 4 that is invariant under translation,
+        glided horizontal and vertical reflections, and rotation only.

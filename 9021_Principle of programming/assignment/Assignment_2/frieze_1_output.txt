@@ -1,0 +1,1 @@
+Pattern is a frieze of period 15 that is invariant under translation only.

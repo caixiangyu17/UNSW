@@ -1,0 +1,7 @@
+long double (*(*(**[8][20])())())[102]
+long double (*(*)())[102]
+long double (*(*(**A1[20])())())[102]
+long double R
+long double (*(*(*C)())())[102]
+long double (*P)[102]
+long double (*D())[102]

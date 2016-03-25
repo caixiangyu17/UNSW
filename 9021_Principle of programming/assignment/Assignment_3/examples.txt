@@ -1,0 +1,109 @@
+a.out A signed. An int short x. A long unsigned long int. A double long x. A float. A long long _007.
+int
+short x
+unsigned long long
+long double x
+float
+long long _007
+
+a.out A long int long john. A pointer to a datum of type char. An array lisa2 of 10 data of type double. A pointer peter to a datum of type unsigned int. An array hanna of 1 datum of type char signed.
+long long john
+char *
+double lisa2[10]
+unsigned *peter
+signed char hanna[1]
+
+a.out An array of 290 data of type int. A function returning a pointer to a datum of type char. A function that_is_right returning void. A pointer may_be_2 to void.
+int [290]
+char *()
+void that_is_right()
+void *may_be_2
+
+a.out A function really returning a datum of type float. A float x. A function x returning a pointer to a datum of type unsigned int.
+float really()
+float x
+unsigned *x()
+
+a.out A pointer to a pointer to a pointer to a pointer to a datum of type int. An array of 20 pointers to data of type int. An array that_is_an_array of 2000 pointers to arrays of 1000 data of type int. An array of 1 pointer to an array of 25 pointers to functions returning a pointer to a datum of type int.
+int ****
+int *[20]
+int (*that_is_an_array[2000])[1000]
+int *(*(*[1])[25])()
+
+a.out A function returning a pointer to an array of 3 pointers to pointers to arrays of 60 pointers to functions returning a pointer to a datum of type int.
+int *(*(**(*())[3])[60])()
+
+a.out An array U of 50 pointers to pointers to data of type the type of X. A pointer Z to a datum of type the type of U. An array Z of 70 pointers to data of type the type of U. An int Z. An unsigned V. A char. A pointer X to a datum of type double.
+double ***U[50]
+double ***(*Z)[50]
+double ***(*Z[70])[50]
+int Z
+unsigned V
+char
+double *X
+
+	
+
+
+A pointer P to an array of 102 data of type the type of R. A double long R. A pointer to a function returning a datum of type the type of P.
+
+
+
+
+a.out An array of 8 data of type the type of A1. A pointer to a function returning a datum of type the type of P. An array A1 of 20 pointers to data of type the type of C. A double long R. A pointer C to a function returning a pointer to a datum of type the type of D. A pointer P to an array of 102 data of type the type of R. A function D returning a datum of type the type of P.
+long double (*(*(**[8][20])())())[102]
+long double (*(*)())[102]
+long double (*(*(**A1[20])())())[102]
+long double R
+long double (*(*(*C)())())[102]
+long double (*P)[102]
+long double (*D())[102]
+
+ An array of 8 data of type the type of A1. A pointer to a function returning a datum of type the type of P. An array A1 of 20 pointers to data of type the type of C. A double long R. A pointer C to a function returning a pointer to a datum of type the type of D. A pointer P to an array of 102 data of type the type of R. A function D returning a datum of type the 
+
+
+
+
+
+
+A long float.
+
+A int.
+
+An int a.
+
+A double
+
+a char.
+
+An int long int.
+
+A signed float.
+
+An int 2bad.
+
+An int do-it.
+
+An array of 20 datum of type int.
+
+An array of +3 data of type int.
+
+An array of data of type int.
+
+An array of 1 int.
+
+A pointer to an int.
+
+A pointer to data of type int.
+
+A function returning an array of 20 data of type int.
+
+A pointer x to an array y of 10 data of type int.
+
+An int x. A pointer to a datum of type the type of x. A double x.
+
+A pointer x to a datum of type the type of y. A pointer y to a datum of type the type of x.
+
+An array of 10 data of type the type of x. An int.
+
+

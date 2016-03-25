@@ -1,0 +1,5 @@
+long long john
+char *
+double lisa2[10]
+unsigned *peter
+signed char hanna[1]

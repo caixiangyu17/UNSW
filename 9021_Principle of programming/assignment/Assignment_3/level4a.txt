@@ -1,0 +1,7 @@
+double ***U[50]
+double ***(*Z)[50]
+double ***(*Z[70])[50]
+int Z
+unsigned V
+char
+double *X

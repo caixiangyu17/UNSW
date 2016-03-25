@@ -1,0 +1,4 @@
+int [290]
+char ()
+void that_is_right()
+void *may_be_2

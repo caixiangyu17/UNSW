@@ -1,0 +1,6 @@
+int
+short x
+unsigned long long
+long double x
+float
+long long _007
